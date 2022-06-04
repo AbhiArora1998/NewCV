@@ -1,0 +1,154 @@
+body {
+    background-color: #EAF6F6;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.abhi {
+
+    width: 50%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-weight: normal;
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.program {
+    position: relative;
+    bottom: 200px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+
+.topCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+
+.topContainer {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 400px;
+}
+
+a{
+    margin: 50px;
+    text-decoration: none;
+    position: relative;
+    top: 20px;
+}
+
+.BottomB {
+background-color: #66BFBF;
+}
+
+
+body {
+    margin: 0%;
+
+}
+
+h1 {
+    line-height: 2;
+    color: #66BFBF;
+    position: relative;
+    bottom: 200px;
+    font-size: 562.5%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+
+
+.hover:hover {
+    transition: .2s;
+    transform: scale(1.5);
+
+}
+
+.skill-row{
+    text-align: left;
+    line-height: 2;
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+.skill-img{
+    margin: 18px;
+    float: left;
+}
+
+.education_img{
+    width: 200px;
+    width: 200px;
+   
+    float: right;
+}
+
+.education_img_paragraph{
+    width: 50%;
+    display: inline-block;
+}
+hr{
+    color: #66BFBF;
+    width: 3%;
+    border-style: none;
+    height: 5%;
+    border-top: dotted;
+    border-width: 8px;
+    margin: 4% auto;
+}
+p{
+    
+    width: 20%;
+    height: 30%;
+    margin: 0 auto 0 auto;
+    word-spacing: 4px;
+}
+
+.education{
+    
+    width: 40%;
+    height: 30%;
+    text-align: center;
+    word-spacing: 4px;
+}
+.btn{
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: #66BFBF;
+    color: white;
+    border-color: #66BFBF;
+    border: none;
+    
+}
+.btn:hover{
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 25px;
+    background-color: #66BFBF;
+    color: cyan;
+    
+    
+}
+
